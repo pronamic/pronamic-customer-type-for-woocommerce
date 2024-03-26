@@ -4,7 +4,8 @@
  * 
  * @package pronamic-woocommerce-customer-type
  * 
- * Plugin Name: Pronamic WooCommerce Customer Type
+ * Plugin Name: Pronamic Customer Type for WooCommerce
+ * Description: Streamline your sales process! This plugin allows customers to clearly indicate a personal or business purchase.
  *
  * Version: 1.0.0
  * 
