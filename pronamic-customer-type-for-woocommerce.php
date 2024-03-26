@@ -1,6 +1,6 @@
 <?php
 /**
- * Pronamic WooCommerce Customer Type
+ * Pronamic Customer Type for WooCommerce
  * 
  * @package pronamic-woocommerce-customer-type
  * 
@@ -11,7 +11,7 @@
  * Author: Pronamic
  * Author URI: https://www.pronamic.eu/
  *
- * Text Domain: pronamic-woocommerce-customer-type
+ * Text Domain: pronamic-customer-type-for-woocommerce
  * Domain Path: /languages/
  */
 
